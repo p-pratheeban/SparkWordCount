@@ -1,0 +1,5 @@
+cat mat rat cat
+cat rat bat rat
+cat bat cat pat
+bat mat pat bat
+cat bat rat bat
